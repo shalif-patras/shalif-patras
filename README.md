@@ -20,7 +20,7 @@
 <a href="https://instagram.com/shalif.peter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shalif.peter" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Microsoft Azure</h3>
+<h3 align="left">Tool: Microsoft Azure</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> </p>
 
 
