@@ -27,3 +27,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalif-patras&" alt="shalif-patras" /></p>
 
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalif-patras&show_icons=true&locale=en" alt="shalif-patras" /></p>
