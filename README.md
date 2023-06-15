@@ -13,7 +13,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/shalif-patras/Configure-Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shalif-patras/Azure-Network-Protocols)
   - [Virtual Machine Setup](https://github.com/shalif-patras/Virtual-Machine)
-  - [DNS intuition] 
+  - [DNS intuition](https://github.com/shalif-patras/DNS-Intuition)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
